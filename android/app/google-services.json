@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "86004782132",
+    "project_id": "proyectoprogramacionmovi-c9fee",
+    "storage_bucket": "proyectoprogramacionmovi-c9fee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86004782132:android:b5827bf47f6f1a0a6fa661",
+        "android_client_info": {
+          "package_name": "com.example.crud_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwDLd6xr3pvkPMSpbzzEYxiUzNpgxkwZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86004782132:android:f9f33e00d51dae8e6fa661",
+        "android_client_info": {
+          "package_name": "com.example.flutter_proyecto_grupo3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwDLd6xr3pvkPMSpbzzEYxiUzNpgxkwZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
